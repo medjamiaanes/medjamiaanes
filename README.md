@@ -1,4 +1,4 @@
-[![Header](https://github.com/medjamiaanes/medjamiaanes/blob/main/cover_edited.png)]()
+[![Header](https://github.com/medjamiaanes/medjamiaanes/blob/main/header.png)]()
 
 <p align="center">
 <a href="https://www.facebook.com/anes.meister.9"><img src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" width="25"/><a/>
