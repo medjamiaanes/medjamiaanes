@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/medjamiaanes/medjamiaanes/blob/main/cover.png)]()
 
 <!--
 **medjamiaanes/medjamiaanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
