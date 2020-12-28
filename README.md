@@ -18,6 +18,7 @@ Full Stack Developer with +4 years of hands-on experience designing, developing,
   <p>
     <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50"/>
     <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="50"/>
+      <img src="https://img.icons8.com/color/452/firebase.png" width="50"/>
   </p>
 <h4>Frontend development</h4>
   <p>  
