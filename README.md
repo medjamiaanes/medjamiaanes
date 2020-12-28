@@ -31,7 +31,7 @@ Full Stack Developer with +4 years of hands-on experience designing, developing,
   
   <h4>Mobile development</h4>
   <p>  
-    <img src="https://www.ubidreams.fr/wp-content/uploads/2020/06/logo-react-native.png" width="80"/>
+     <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="50" height="50"/>
   </p>
   
   <h4>Database managment & conception</h4>
