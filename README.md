@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/anes-medjamia-ba489b125/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="25"/><a/>
 </p>
 
-<h3>Hi, there! 👋</h3>
+<h3>Hi there! 👋</h3>
 
 <p>My name is Anes Medjamia and i'am a 27yo Full Stack Developer.</p>
 <p>
